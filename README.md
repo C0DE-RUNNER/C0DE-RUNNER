@@ -7,7 +7,7 @@
   <img align="left" alt="Sakshi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=C0DE-RUNNER.C0DE-RUNNER)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **MERN Stack**
