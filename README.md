@@ -1,6 +1,13 @@
 ### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sakshi!
 
+<a href="https://twitter.com/SakshiT_">
+  <img align="left" alt="Sakshi Thakur | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sakshi-thakur07/">
+  <img align="left" alt="Sakshi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **MERN Stack**
