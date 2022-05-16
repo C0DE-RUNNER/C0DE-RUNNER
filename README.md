@@ -1,6 +1,5 @@
 <h1 align="center"> ⚡ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. ⚡ </h1>
 
-<p>Welcome to my Page!!</p>
 <p> I'm Sakshi, a Fullstack developer from India </p>
 <a href="https://twitter.com/SakshiT_">
   <img align="left" alt="Sakshi Thakur | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
