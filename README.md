@@ -23,13 +23,12 @@
  
 <h2 align="center">⚡ Stats ⚡</h2>
 
-
-<div align="center" style="padding: 20px 0px">
-<img align="center" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=C0DE-RUNNER&theme=react&border=61dafb&hide_border=true" alt="C0DE-RUNNER">
+<div style="padding: 20px 10px;">
+<img style="border-radius: 5px;" src="https://activity-graph.herokuapp.com/graph?username=C0DE-RUNNER&theme=react-dark&bg_color=20232a&hide_border=true">
 </div>
 
-<div style="padding: 20px 0px;">
-<img style="border-radius: 5px;" src="https://activity-graph.herokuapp.com/graph?username=C0DE-RUNNER&theme=react-dark&bg_color=20232a&hide_border=true">
+<div align="center" style="padding: 20px 10px">
+<img align="center" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=C0DE-RUNNER&theme=react&border=61dafb&hide_border=true" alt="C0DE-RUNNER">
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> :)</em>
