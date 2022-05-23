@@ -35,9 +35,9 @@
 
  -->
  
- 
- <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center"> ⚡ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. ⚡ </h1>
+
+<p> I'm Sakshi, a Fullstack developer from India </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0de-runner&label=Profile%20views&color=0e75b6&style=flat" alt="c0de-runner" /> </p>
 
