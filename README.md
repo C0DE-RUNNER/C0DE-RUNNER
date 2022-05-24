@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0de-runner&label=Profile%20views&color=0e75b6&style=flat" alt="c0de-runner" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0de-runner&theme=onedark" alt="c0de-runner" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0de-runner&title=MultiLanguage,Commits,Repositories,PullRequest&theme=onedark" alt="c0de-runner" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sakshit_" target="blank"><img src="https://img.shields.io/twitter/follow/sakshit_?logo=twitter&style=for-the-badge" alt="sakshit_" /></a> </p>
 
