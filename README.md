@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Va30rMIZyKLY2vKgwaWiaYquRxYikiLz/view?usp=sharing)
 
-- ⚡ Fun fact **I'm **
+- ⚡ Fun fact **I'm a Foodie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
