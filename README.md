@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **st.sakshi07@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eMAVOJvOnh67gamY5Xa3LdgcIE9Fqubj/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kXTohJ7DzzWwdoPdHqHGVEdsHGSChWV2/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Foodie**
 
